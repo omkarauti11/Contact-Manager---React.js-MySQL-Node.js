@@ -30,16 +30,11 @@ Manage your contacts efficiently with this Contact Management System. Keep track
 
 - **Frontend**:
   - React.js
-  - React Router
-  - Axios
-  - React Toastify
 - **Backend**:
   - Node.js
   - Express.js
+- **Database**:
   - MySQL
-- **Styling**:
-  - CSS
-
 
 ## Installation
 
